@@ -5,6 +5,9 @@ Custom Css
     height: 150px !important;
 }
 
+.card img{
+    height: 410px !important;
+}
 .whatsapp {
     position:fixed;
     width:60px;
